@@ -2,4 +2,4 @@
 	2. def say_hello(name="Hello Ruby Programmer!")
 	3.puts "Hello, #{name}"
 	end
-	say_hello
+	say_hello("Gabriela")
